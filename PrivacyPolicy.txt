@@ -10,7 +10,7 @@ By playing our Games you are consenting to the collection of data as outlined in
 
 Collection of Data
 
-Sensitive Data: Our Games do  collect sensitive information about you.
+Sensitive Data: Our Games do not collect sensitive information about you.
 
 Personally identifiable Data: Our Games collect certain non-sensitive, data as outlined in this privacy policy. Some of this information is automatically gathered, and could be considered personally identifiable in certain circumstances, however it will generally always be anonymised prior to being viewed by MigoGamesStudios and never sold or shared.
 
